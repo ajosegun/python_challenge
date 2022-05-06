@@ -24,6 +24,8 @@ def solution(n):
     4. Thus, you take into account of the squares in between, the formula is n * n + (n-1) * (n-1)
     
     Example: if n = 4, the outer square is 4 * 4 = 16. Then take away the area you have just calculated, the inner squares is 3 * 3 = 9. Add together, you get 25.
+    
+    ![alt text](https://github.com/ajosegun/python_challenge/raw/main/images/shapeArea.png) 
     """
     
     # return 2 * n * (n-1) + 1
